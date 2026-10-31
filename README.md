@@ -8,10 +8,10 @@ Images generated using Google Gemini.
 Used for educational and demonstration purposes.
 
 ## Acknowledgements
-Recipe inspirations adapted and translated from Chefkoch.de(https://www.chefkoch.de/):
-- Potato Bread(https://www.chefkoch.de/rezepte/243151097939153/Kartoffelbrot.html)
-- Lasagna(https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html)
-- Paprika-Cream Chicken(https://www.chefkoch.de/rezepte/22771005725755/Paprika-Sahne-Haehnchen.html)
+Recipe inspirations adapted and translated from Chefkoch.de (https://www.chefkoch.de/):
+- Potato Bread (https://www.chefkoch.de/rezepte/243151097939153/Kartoffelbrot.html)
+- Lasagna (https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html)
+- Paprika-Cream Chicken (https://www.chefkoch.de/rezepte/22771005725755/Paprika-Sahne-Haehnchen.html)
 
 ### Built With
 HTML5 – Markup and semantic structure
