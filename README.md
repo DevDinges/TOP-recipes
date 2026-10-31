@@ -17,8 +17,8 @@ Recipe inspirations adapted and translated from Chefkoch.de (https://www.chefkoc
 HTML5 – Markup and semantic structure
 
 ### Tools & Environment
-OS: Xubuntu (Linux)
-Editor: Visual Studio Code
-Version Control: Git & GitHub
-Terminal: Bash
-Media Processing: ImageMagick (used to convert and optimize images to `.webp`)
+*OS: Xubuntu (Linux)
+*Editor: Visual Studio Code
+*Version Control: Git & GitHub
+*Terminal: Bash
+*Media Processing: ImageMagick (used to convert and optimize images to `.webp`)
